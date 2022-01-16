@@ -1,7 +1,10 @@
 {
-  "description": "A tokenized representation of the historic Rise and Fall of Theranos (RFT). The RFT NFT features an actual Series A stock certificate issued to an early investor in Theranos. The winning bidder also receives a token that can be redeemed for the physical stock certificate artifact.", 
-  "id":0,
-  "image": "https://ipfs.io/ipfs/QmcpZtwdP58aVarNXUi39rZJA7GqKH1njDPDqkXaTfJKtC", 
-  "name": "Rise and Fall of Theranos",
+  "title":"Rise and Fall of Theranos",
+  "name":"Rise and Fall of Theranos",
+  "type":"object",
+  "imageUrl":"ipfs://QmcpZtwdP58aVarNXUi39rZJA7GqKH1njDPDqkXaTfJKtC",
+  "description":"A tokenized representation of the historic Rise and Fall of Theranos (RFT). The RFT NFT features an actual Series A stock certificate issued to an early investor in Theranos. The winning bidder also receives a token that can be redeemed for the physical stock certificate artifact.",
+  "id": 0,
+  "image":"ipfs://QmcpZtwdP58aVarNXUi39rZJA7GqKH1njDPDqkXaTfJKtC",
+  "httpUrl":"https://ipfs.io/ipfs/QmcpZtwdP58aVarNXUi39rZJA7GqKH1njDPDqkXaTfJKtC"
 }
-
