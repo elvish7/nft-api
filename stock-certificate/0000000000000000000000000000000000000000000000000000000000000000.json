@@ -1,5 +1,6 @@
 {
     "description": "A tokenized representation of the historic Rise and Fall of Theranos (RFT). The RFT NFT features an actual Series A stock certificate issued to an early investor in Theranos. The winning bidder also receives a token that can be redeemed for the physical stock certificate artifact.",
+    "external_url": "https://forum.openzeppelin.com",
     "image": "https://ipfs.io/ipfs/QmcpZtwdP58aVarNXUi39rZJA7GqKH1njDPDqkXaTfJKtC",
     "name": "Rise and Fall of Theranos"
 }
